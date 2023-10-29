@@ -34,7 +34,7 @@ Console.WriteLine(SumOfThem(n, m));
 //1.Verilmiş n və m (n<m) ədədləri arasında neçə tək ədəd olduğunu tapın.
 int num01 = 7;
 int num2 = 36;
-int icreasment = default(int);
+int icreasment = default;
 
 string OddFounder(int num,int num1, int icreasment1)
 {
